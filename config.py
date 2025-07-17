@@ -52,7 +52,7 @@ use_watermark = False # Set to True to use watermark
 ffmpeg_path = "ffmpeg" # Path to ffmpeg executable
 encoding_code = "libx264" # Encoding method note: if watermark is enabled, use "libx264" for encoding
 output_format = "mkv" # Output format
-audio_codec = "m4a" # Audio codec
+audio_codec = "aac" # Audio codec
 original_quality = True # Set to True to use original quality (no encoding)
 
 
