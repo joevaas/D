@@ -9,12 +9,12 @@ Password = "freaky@4321" #Your password here
 # --- Telegram Settings ---
 API_ID = 25797857  # Replace with your API ID
 API_HASH = "77717127ece56fac64ebea6250db8bb7" # Replace with your API Hash
-BOT_TOKEN = "7662286847:AAGJIoqoUHsHcoj4RD8fWJqUNFD-2hepQTY" # Replace with your Bot Token
+BOT_TOKEN = "7848338633:AAEK5JMXsylzIR8y9jSHaM5TKrnxDvTi_fU" # Replace with your Bot Token
 
 # --- User Management & Limits ---
 sudo_users = [6693549185] # List of sudo user IDs (as integers)
 premium_users = [] # List of premium user IDs (as integers)
-AUTHORIZED_USERS = [7177667220,6299192020,6121610691] # List of authorized user IDs to use bot in private (as integers)
+AUTHORIZED_USERS = [7177667220,6299192020,6121610691,7043973899] # List of authorized user IDs to use bot in private (as integers)
 
 # Limits for regular users
 REGULAR_USER_AUDIO_LIMIT = 5
